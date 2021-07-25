@@ -1,1 +1,1 @@
-# google-maps-clone
+# Google maps clone using Map Box
